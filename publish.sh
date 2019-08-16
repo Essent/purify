@@ -10,4 +10,4 @@ done
 
 cd lib
 ls
-npm publish --dry-run
+npm publish
