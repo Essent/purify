@@ -1,5 +1,5 @@
 {
-  "name": "purify-ts",
+  "name": "@essent/purify-ts",
   "version": "0.12.3",
   "description": "Functional programming standard library for TypeScript ",
   "main": "lib/index.js",
